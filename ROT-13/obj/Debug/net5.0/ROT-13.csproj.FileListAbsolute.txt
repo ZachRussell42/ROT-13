@@ -1,0 +1,16 @@
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.csprojAssemblyReference.cache
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.AssemblyInfoInputs.cache
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.AssemblyInfo.cs
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.csproj.CoreCompileInputs.cache
+C:\source\repos\ROT-13\bin\Debug\net5.0\ROT-13.exe
+C:\source\repos\ROT-13\bin\Debug\net5.0\ROT-13.deps.json
+C:\source\repos\ROT-13\bin\Debug\net5.0\ROT-13.runtimeconfig.json
+C:\source\repos\ROT-13\bin\Debug\net5.0\ROT-13.runtimeconfig.dev.json
+C:\source\repos\ROT-13\bin\Debug\net5.0\ROT-13.dll
+C:\source\repos\ROT-13\bin\Debug\net5.0\ref\ROT-13.dll
+C:\source\repos\ROT-13\bin\Debug\net5.0\ROT-13.pdb
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.dll
+C:\source\repos\ROT-13\obj\Debug\net5.0\ref\ROT-13.dll
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.pdb
+C:\source\repos\ROT-13\obj\Debug\net5.0\ROT-13.genruntimeconfig.cache
